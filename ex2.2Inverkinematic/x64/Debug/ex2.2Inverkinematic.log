@@ -1,0 +1,18 @@
+﻿  CRobot.cpp
+  ex2.2Inverkinematic.cpp
+E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\lib\Matrix.h(15,7): error C2011: 'matrix': 'class' type redefinition
+  (compiling source file 'ex2.2Inverkinematic.cpp')
+      E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\matrix class\Matrix.h(15,7):
+      see declaration of 'matrix'
+  
+E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\lib\Matrix.h(179,8): error C2011: 'smatrix': 'class' type redefinition
+  (compiling source file 'ex2.2Inverkinematic.cpp')
+      E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\matrix class\Matrix.h(179,8):
+      see declaration of 'smatrix'
+  
+E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\lib\Matrix.h(221,8): error C2011: 'vectorm': 'class' type redefinition
+  (compiling source file 'ex2.2Inverkinematic.cpp')
+      E:\hoctap\nam4_ky2\LTMPHCDT\BaiHocVoLong\chapter2\matrix class\Matrix.h(221,8):
+      see declaration of 'vectorm'
+  
+  Generating Code...

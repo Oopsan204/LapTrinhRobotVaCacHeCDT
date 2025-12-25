@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\CRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|solutionrelative:lib\\CRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|solutionrelative:ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A6CBA91-7E69-4265-99B9-17EF8C8D5FCE}|ex2.2Inverkinematic\\ex2.2Inverkinematic.vcxproj|solutionrelative:lib\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Ex2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|solutionrelative:Ex2.1\\Ex2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|solutionrelative:Ex2.1\\CRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|solutionrelative:Ex2.1\\CRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|solutionrelative:Ex2.1\\Clink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FDE62D0-285E-4277-AF3D-ECC22E421F17}|Ex2.1\\Ex2.1.vcxproj|solutionrelative:Ex2.1\\Clink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:258945968:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRobot.h",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\CRobot.h",
+              "RelativeDocumentMoniker": "lib\\CRobot.h",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\CRobot.h*",
+              "RelativeToolTip": "lib\\CRobot.h*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwE4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T01:56:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\Matrix.h",
+              "RelativeDocumentMoniker": "lib\\Matrix.h",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\lib\\Matrix.h",
+              "RelativeToolTip": "lib\\Matrix.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T01:50:38.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex2.2Inverkinematic.cpp",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp",
+              "RelativeDocumentMoniker": "ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp",
+              "RelativeToolTip": "ex2.2Inverkinematic\\ex2.2Inverkinematic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T01:40:48.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRobot.cpp",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.cpp",
+              "RelativeDocumentMoniker": "Ex2.1\\CRobot.cpp",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.cpp",
+              "RelativeToolTip": "Ex2.1\\CRobot.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T01:54:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRobot.h",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.h",
+              "RelativeDocumentMoniker": "Ex2.1\\CRobot.h",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\CRobot.h",
+              "RelativeToolTip": "Ex2.1\\CRobot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-18T00:47:38.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clink.cpp",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.cpp",
+              "RelativeDocumentMoniker": "Ex2.1\\Clink.cpp",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.cpp",
+              "RelativeToolTip": "Ex2.1\\Clink.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T00:20:03.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clink.h",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.h",
+              "RelativeDocumentMoniker": "Ex2.1\\Clink.h",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Clink.h",
+              "RelativeToolTip": "Ex2.1\\Clink.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-18T00:08:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex2.1.cpp",
+              "DocumentMoniker": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Ex2.1.cpp",
+              "RelativeDocumentMoniker": "Ex2.1\\Ex2.1.cpp",
+              "ToolTip": "E:\\hoctap\\nam4_ky2\\LTMPHCDT\\BaiHocVoLong\\chapter2\\Ex2.1\\Ex2.1.cpp",
+              "RelativeToolTip": "Ex2.1\\Ex2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T00:05:49.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
